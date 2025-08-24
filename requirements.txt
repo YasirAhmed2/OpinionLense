@@ -5,3 +5,4 @@ matplotlib
 textblob
 scikit-learn
 python-dotenv
+google-api-python-client
