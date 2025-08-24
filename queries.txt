@@ -1,0 +1,13 @@
+
+# One query per line. Example topical spread to diversify sentiment.
+AI
+machine learning
+tech review
+smartphone review
+gaming
+news Pakistan
+education tutorial
+music video
+movie trailer
+sports highlights
+vlog
