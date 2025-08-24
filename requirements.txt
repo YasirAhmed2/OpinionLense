@@ -4,3 +4,4 @@ numpy
 matplotlib
 textblob
 scikit-learn
+python-dotenv
