@@ -29,7 +29,7 @@ A powerful Python tool for scraping and analyzing YouTube comments at scale. Opi
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 
